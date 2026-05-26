@@ -180,6 +180,9 @@ pre, code {
   padding: 0;
 }
 
+.katex { color: var(--text); }
+.katex-display { color: var(--text); }
+
 /* syntax highlighter line numbers */
 .markdown-body span.linenumber,
 span.linenumber {
